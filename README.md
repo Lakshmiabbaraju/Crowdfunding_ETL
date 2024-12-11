@@ -8,11 +8,16 @@ This project involves building an ETL (Extract, Transform, Load) pipeline for cr
 Key Tasks:
 -------------------
 
-Create DataFrames for categories, subcategories, campaigns, and contacts.
-Transform the data and clean it for database insertion.
-Create and populate a PostgreSQL database.
-Export transformed data into CSV files.
-Design the database schema and ERD.
-Use PostgreSQL to store and manage the data.
+Created DataFrames for categories, subcategories, campaigns, and contacts.
+
+Transformed the data and clean it for database insertion.
+
+Created and populated a PostgreSQL database.
+
+Exported the transformed data into CSV files.
+
+Designed the database schema and ERD.
+
+Used PostgreSQL to store and manage the data.
 
 Free Diagram - QuickDBD https://app.quickdatabasediagrams.com/#/d/kZFUUx
